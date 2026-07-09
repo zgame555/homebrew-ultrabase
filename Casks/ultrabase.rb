@@ -12,7 +12,6 @@ cask "ultrabase" do
   homepage "https://github.com/zgame555/ultrabase"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :big_sur"
 
   app "Ultrabase.app"
 
