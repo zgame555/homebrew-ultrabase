@@ -3,8 +3,8 @@
 # ผู้ใช้ติดตั้งด้วย: brew install --cask zgame555/ultrabase/ultrabase
 # เวลาออก release ใหม่: อัปเดต version + sha256 (shasum -a 256 <dmg>)
 cask "ultrabase" do
-  version "0.1.29"
-  sha256 "e0d97c18980a59d1172927cca147de2039f4813546945acd49e90b9a3aeebe25"
+  version "0.1.30"
+  sha256 "f1861bd899ec769c69ad8c0057ef01b00dbe7ea9355597b729bb6732d483caec"
 
   url "https://github.com/zgame555/ultrabase/releases/download/v#{version}/Ultrabase_#{version}_aarch64.dmg"
   name "Ultrabase"
